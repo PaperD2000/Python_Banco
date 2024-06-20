@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="xd">
+    <file>banco.png</file>
+  </qresource>
+</RCC>
